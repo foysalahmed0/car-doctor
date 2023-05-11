@@ -31,5 +31,18 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2",
     "vite": "^4.3.2"
-  }
+  },
+  "description": "��#\u0000 \u0000c\u0000a\u0000r\u0000-\u0000d\u0000o\u0000c\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foysalahmed0/car-doctor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foysalahmed0/car-doctor/issues"
+  },
+  "homepage": "https://github.com/foysalahmed0/car-doctor#readme"
 }
